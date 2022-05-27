@@ -1,16 +1,15 @@
 # instagram
 
-A new Flutter project.
+login screen
+![screenshot_2022-05-27T17_42_12_354061](https://user-images.githubusercontent.com/88130000/170700248-6d221c02-d1ca-4573-9376-f19efae806e3.jpg)
 
-## Getting Started
+sign up screen
+![IMG_20220527_175111](https://user-images.githubusercontent.com/88130000/170700313-69d366af-0731-4dea-8df9-52b292f3826f.JPG)
 
-This project is a starting point for a Flutter application.
+main feed screen
+![IMG_20220527_175000](https://user-images.githubusercontent.com/88130000/170700375-70a04500-d356-4ed5-8bb6-997f53b78861.JPG)
 
-A few resources to get you started if this is your first Flutter project:
+Profile screen
+![IMG_20220527_174941](https://user-images.githubusercontent.com/88130000/170700440-fb815005-4b56-43ed-856f-d4ca52c698ad.JPG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
